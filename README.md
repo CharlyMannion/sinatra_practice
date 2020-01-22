@@ -1,3 +1,7 @@
+Sinatra Sinatra
+-----
+A simple Sinatra web application
+
 Getting Started
 -----
 
