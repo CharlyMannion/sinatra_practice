@@ -1,4 +1,4 @@
-Sinatra Sinatra
+Sinatra Practice 
 -----
 A simple Sinatra web application
 
