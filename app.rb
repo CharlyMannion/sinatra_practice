@@ -13,3 +13,5 @@ end
 get '/cat' do
     erb :index
 end
+
+# http://localhost:4567/cat
